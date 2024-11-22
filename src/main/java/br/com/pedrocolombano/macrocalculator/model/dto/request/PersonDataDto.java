@@ -1,4 +1,4 @@
-package br.com.pedrocolombano.macrocalculator.model.dto;
+package br.com.pedrocolombano.macrocalculator.model.dto.request;
 
 import br.com.pedrocolombano.macrocalculator.model.enumeration.Activity;
 import br.com.pedrocolombano.macrocalculator.model.enumeration.BasalMetabolicRate;

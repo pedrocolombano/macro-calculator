@@ -1,7 +1,7 @@
 package br.com.pedrocolombano.macrocalculator.service;
 
-import br.com.pedrocolombano.macrocalculator.model.dto.MetabolicRateDto;
-import br.com.pedrocolombano.macrocalculator.model.dto.PersonDataDto;
+import br.com.pedrocolombano.macrocalculator.model.dto.response.MetabolicRateDto;
+import br.com.pedrocolombano.macrocalculator.model.dto.request.PersonDataDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

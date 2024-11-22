@@ -1,4 +1,4 @@
-package br.com.pedrocolombano.macrocalculator.model.dto;
+package br.com.pedrocolombano.macrocalculator.model.dto.response;
 
 import java.math.BigDecimal;
 
